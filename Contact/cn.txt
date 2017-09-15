@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Gallery</title>
+<link href="Student.css" type="text/css" rel="stylesheet">
+
+</div>
+</head>
+<body>
+
+
+
+<div id="contain">
+<a href="index.html"><h2>Home</h2></a>
+<a href="index.html"><h2>Back</h2></a>
+
+		</div>
+		
+</header>
+	</header>
+	<div id="banner">
+	<table width="828" border="1" align="center"  bgcolor="White">
+   
+			<hr></hr> 
+<hr></hr>
+	<div id="V">
+	<h1><u>How can you reach me?</u></h1
+	<br><br></br></br>
+	<table border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="638" valign="top"><p align="center">
+	<p>Contact Number: 09507923301</p>
+	<p>Email: lorrainejavier5@gmail.com</p>
+	<p>Facebook: Ayane Javier</p>
+	<p>Instagram: @itsmeayane</p>
+	<p>Twitter: @itsmeayaneh</p>
+ </p></td>
+  </tr>
+</table>
+	</div></p></td>
+    </tr>
+   
+</div>
+
+</body>
+</html>
