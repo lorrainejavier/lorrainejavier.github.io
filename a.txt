@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>About</title>
+<link href="about.css" type="text/css" rel="stylesheet">
+
+</div>
+</head>
+<body>
+
+<img src="12.JPG" align="right" width="200" height="200"/>
+<img src="12.JPG" align="left" width="200" height="200"/>
+
+<div id="container">
+<a target="index.html" href="index.html"><h2>Home</h2></a>
+
+		</div>
+		
+</header>
+	</header>
+	
+	<div id="banner">
+		<h1><u>LORRAINE NONESA JAVIER</u></h1
+		
+	</div>
+	
+	<div id="content">
+                           <p>NICKNAME:    Ayane</p>
+                                 <p>AGE:    19 </p>
+                         <p>BIRTHDAY:    January 28, 1998</p>
+<p>BIRTHPLACE:    ITRMC </p>
+<p>GENDER:    Female</p>
+<p>CITIZENSHIP:    Filipino </p>
+<p>STATUS:    Single</p>
+<p>RELIGION:    Roman Catholic </p>
+<p>MOTHER'S NAME:    Laurena Javier</p>
+<p>FATHER'S NAME:    Eduardo Javier</p>
+<p>LANGUAGE SPOKEN:    Tagalog, Iloco, English </p>
+
+	</div>
+
+				<hr></hr> 
+<hr></hr>
+	<div id="V">
+	<h1><u>Educational Background</u></h1
+	<br><br></br></br>
+	<table border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="638" valign="top"><p align="center">Tertiary : SAINT LOUIS COLLEGE (Present)<br />
+	Carlatan, San Fernando City, La Union
+      
+     <p>Secondary: SAN NICOLAS ACADEMY 	  <br />
+                Dr. Camilo Osias, Balaoan, La Union <br />
+                (2010-2014)</p>
+      <p>Primary: LINGSAT COMMUNITY SCHOOL <br />
+      Lingsat, San Fernado City, La Union <br />
+      (2004-2010) </p><br />
+
+  </tr>
+</table>
+	</div></td>
+	
+	
+	</div>
+	
+	</div>
+	<br></br>
+	<br><br></br></br>
+</body>
+</html>
