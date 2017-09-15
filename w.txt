@@ -1,0 +1,47 @@
+body{background-color: Gray}
+h1{
+	text-align: Center;
+	font-family: "Old English", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 50px;
+	color:Maroon;
+	}
+core{
+	text-align: center;
+	font-family: "Book Antiqua", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 20px;
+	
+	}
+h2{
+	text-align: center;
+	font-family: "Book Antiqua", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 20px;
+	
+	}
+p{  text-align: center;
+	font-family: "Book Antiqua", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:20px;
+history{
+	
+	font-family: "Book Antiqua", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:20px;
+	}
+li{
+text-align: center;
+	font-family: "Book Antiqua", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:20px;
+}
+V{
+text-align: center;
+	font-family: "Jokerman", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:20px;
+}
+	
+	
+	
