@@ -1,0 +1,8 @@
+html { 
+  background: url(frame.gif)no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 2500px;
+  background-color:Maroon;
+}
