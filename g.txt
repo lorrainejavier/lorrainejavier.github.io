@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>Gallery</title>
+<link href="Student.css" type="text/css" rel="stylesheet">
+
+</div>
+</head>
+<body>
+
+
+
+<div id="contain">
+<a href="index.html"><h2>Home</h2></a>
+<a href="index.html"><h2>Back</h2></a>
+
+		</div>
+		
+</header>
+	</header>
+	<div id="banner">
+	<table width="828" border="1" align="center"  bgcolor="White">
+   
+			<hr></hr> 
+<hr></hr>
+	<div id="V">
+	<h1><u>SEMINARS ATTENDED</u></h1
+	<br><br></br></br>
+	<table border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="638" valign="top"><p align="center">5th International Information Technology Conference
+<p>( STEP UP International Services INC.)
+September 10, 2016
+Henry Lee Irwin Theatre, Ateneo De Manila University
+Manila, Philippines </p><br />
+
+<p>	Team Building Seminar
+February 25, 2017
+Social Center, Saint Louis College
+San Fernando, La Union  </p><br />
+
+<p>	Personality Development Seminar
+February 23, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p><br />
+
+<p>	Cross Platform Mobile App Development
+February 25, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p><br />
+
+<p>	Seminar on Arduino
+March 4, 2017
+Social Center, Saint Louis College`
+San Fernando, La Union </p><br />
+
+<p>	Seminar on Techno-preneurship: How to setup your IT Business
+March 4, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p> </br>
+
+<p>	Seminar on Basics of Graphics Editing
+March 4, 2017
+Social Center, Saint Louis College
+San Fernando, La Union <br />
+
+<p>	Seminar on Basics of Video Editing
+March 4, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p><br />
+
+<p>	Seminar on Trends in Wireless Connection 802.111
+March 4, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p><br />
+
+<p>	2017 Robotics Seminar Workshop
+March 11, 2017
+Social Center, Saint Louis College
+San Fernando, La Union </p><br />
+
+<p>	Computer Network Administration Seminar
+March 17, 2017
+Livcom Technologies, 2nd floor CJARCH Building, Quezon Ave.
+San Fernando, La Union  </p><br />
+
+<p>	BPO for the Global IT Professional Seminar
+March 17, 2017 </p><br />
+
+<p> Livcom Technologies, 2nd floor CJARCH Building,
+Quezon Avenue
+San Fernando, La Union </p><br />
+ </p></td>
+  </tr>
+</table>
+	</div></p></td>
+    </tr>
+   
+</div>
+
+</body>
+</html>
