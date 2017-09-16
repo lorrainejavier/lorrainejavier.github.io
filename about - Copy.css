@@ -1,0 +1,47 @@
+body{background-color:#0066FF}
+h1{
+	text-align: center;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 40px;
+	color:red;
+	}
+core{
+	text-align: center;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 40px;
+	
+	}
+h2{
+	text-align: left-side;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size: 30px;
+	
+	}
+p{  text-align: center;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:30px;
+history{
+	
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:25px;
+	}
+li{
+text-align: center;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:30px;
+}
+V{
+text-align: center;
+	font-family: "Georgia", Times New Roman, Times, serif;
+	font-style: bold;
+	font-size:30px;
+}
+	
+	
+	
